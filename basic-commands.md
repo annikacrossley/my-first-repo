@@ -13,3 +13,9 @@ touch <file-name.extension> - make a file
 clear - remove all previous lines in the terminal
 
 ~ is the home directory 
+
+ctrl + c - copy to clipboard
+
+ctrl + v - paste
+
+ctrl + s - save file 
